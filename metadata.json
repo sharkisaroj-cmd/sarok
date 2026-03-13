@@ -1,0 +1,5 @@
+{
+  "name": "B-Roll Automator",
+  "description": "Generate B-roll video clips from a script using Veo.",
+  "requestFramePermissions": []
+}
